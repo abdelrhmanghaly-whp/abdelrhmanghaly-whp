@@ -6,7 +6,7 @@
     
 <h4 align="center">Studying Computer Sciecne & Artificial Intelligence at <a href="https://www.eru.edu.eg/">Egyptian Russian University</a>.<br> Interested in Software Development also a Competitive programmer!</h4>
 
-<p align="center"><h4 align="center">Reach me out through my email at <a href="mailto:abdelrhmanghalyy@gmail.com">abdelrhmanghalyy@gmail.com </a>, and check out my <a href="https://drive.google.com/file/d/1Cy5w9WHXhfnfzYZb1Lks8Y28Qx66Ipzv/view?usp=sharing">Resume</a>.</h4></p>
+<p align="center"><h4 align="center">Reach me out through my email at <a href="mailto:abdelrhmanghalyy@gmail.com">abdelrhmanghalyy@gmail.com </a>, and check out my <a href="https://drive.google.com/file/d/1qeGQ2q3SHny2PYl2WUgcrMPusMdC9ayf/view?usp=sharing">Resume</a>.</h4></p>
     
 <!--## 🌱 I’m currently learning/interested in
 * Front-end development
