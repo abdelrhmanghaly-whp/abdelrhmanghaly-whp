@@ -4,7 +4,7 @@
 <img src="https://spotify-pink.vercel.app/api/spotify?background_color=36454F&text_color=CC5500" alt="codeSTACKr Spotify Playing" width="500" align="middle"/>
 
     
-<h4 align="center">Studying Computer Sciecne & Artificial Intelligence at <a href="https://www.eru.edu.eg/">Egyptian Russian University</a>.<br> Interested in Software Development also a Competitive programmer!</h4>
+<h4 align="center">Artificial Intelligence Graduate, Interested in Software Development also a Competitive programmer!</h4>
 
 <p align="center"><h4 align="center">Reach me out through my email at <a href="mailto:abdelrhmanghalyy@gmail.com">abdelrhmanghalyy@gmail.com</a>. <!-- and check out my <a href="https://drive.google.com/file/d/1qeGQ2q3SHny2PYl2WUgcrMPusMdC9ayf/view?usp=sharing">Resume</a>.</h4></p>-->
 
