@@ -16,7 +16,7 @@
 * TailWind CSS
 * Search Engine Optimization-->
 
-<hr>
+
 
 <!--<pr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanghaly-whp&show_icons=true&theme=midnight-purple" alt="abdelrhmanghaly-whp" /></pr>-->
 <!--<p align="center">
